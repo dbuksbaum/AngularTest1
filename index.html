@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" ng-app="">
+<html lang="en">
   <head>
     <meta charset="utf-8">
     <title>AngularJS Test Application</title>
@@ -9,13 +9,17 @@
     <script src="js/main.js"></script>
   </head>
   <body>
-    <div>
+    <div ng-app="">
+      <input type="text" ng-model="data.message">
+      <h1>{{data.message}}</h1>
       <!-- the controller name needs a method in main.js -->
       <div ng-controller="FirstCtrl">
-        <h1>{{data.message + " world"}}</h1>
-        <div class="{{data.message}}">
-          Wrap me with a foundation component
-        </div>
+        <input type="text" ng-model="data.message">
+        <h1>{{data.message}}</h1>
+      </div>
+      <div ng-controller="SecondCtrl">
+        <input type="text" ng-model="data.message">
+        <h1>{{data.message}}</h1>
       </div>
     </div>
     <script src="js/angular.js"></script>

@@ -5,5 +5,9 @@
 // the method name matches the controller name in index.html
 function FirstCtrl($scope){
   "use strict";
-  $scope.data = {message: "panel"};
+}
+
+function SecondCtrl($scope){
+  "use strict";
+
 }
