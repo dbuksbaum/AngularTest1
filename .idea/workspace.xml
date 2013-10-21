@@ -31,7 +31,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="42" selection-start="584" selection-end="584" vertical-scroll-proportion="-11.115385" vertical-offset="0" max-vertical-offset="493">
+            <state line="17" column="34" selection-start="576" selection-end="576" vertical-scroll-proportion="-11.115385" vertical-offset="0" max-vertical-offset="493">
               <folding />
             </state>
           </provider>
@@ -40,7 +40,7 @@
       <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="11" selection-start="452" selection-end="452" vertical-scroll-proportion="0.5687732" vertical-offset="0" max-vertical-offset="538">
+            <state line="12" column="59" selection-start="324" selection-end="324" vertical-scroll-proportion="0.31598514" vertical-offset="0" max-vertical-offset="561">
               <folding>
                 <element signature="e#0#40#0" expanded="false" />
               </folding>
@@ -73,8 +73,8 @@
       <list>
         <option value="$PROJECT_DIR$/.bowerrc" />
         <option value="$PROJECT_DIR$/bower.json" />
-        <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/main.js" />
       </list>
     </option>
   </component>
@@ -154,20 +154,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AngularTest1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AngularTest1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bower" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -273,7 +259,11 @@
       <created>1382314790955</created>
       <updated>1382314790955</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="egghead.io AngularJS Tutorial # 5">
+      <created>1382314812773</created>
+      <updated>1382314812773</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -333,7 +323,8 @@
     <MESSAGE value="egghead.io AngularJS Tutorial # 2" />
     <MESSAGE value="egghead.io AngularJS Tutorial # 3" />
     <MESSAGE value="egghead.io AngularJS Tutorial # 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="egghead.io AngularJS Tutorial # 4" />
+    <MESSAGE value="egghead.io AngularJS Tutorial # 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="egghead.io AngularJS Tutorial # 5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -404,14 +395,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="42" selection-start="584" selection-end="584" vertical-scroll-proportion="-11.115385" vertical-offset="0" max-vertical-offset="493">
+        <state line="17" column="34" selection-start="576" selection-end="576" vertical-scroll-proportion="-11.115385" vertical-offset="0" max-vertical-offset="493">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="11" selection-start="452" selection-end="452" vertical-scroll-proportion="0.5687732" vertical-offset="0" max-vertical-offset="538">
+        <state line="12" column="59" selection-start="324" selection-end="324" vertical-scroll-proportion="0.31598514" vertical-offset="0" max-vertical-offset="561">
           <folding>
             <element signature="e#0#40#0" expanded="false" />
           </folding>

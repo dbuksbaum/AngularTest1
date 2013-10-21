@@ -7,6 +7,13 @@ myApp.factory('Data', function() {
   return { message: "I'm data from a service"}
 })
 
+myApp.filter('reverse', function(Data){
+  "use strict";
+  return function(text){
+    return text.split("").reverse().join("") + Data.message;
+  }
+})
+
 // the method name matches the controller name in index.html
 function FirstCtrl($scope, Data){
   "use strict";
