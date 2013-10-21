@@ -6,13 +6,9 @@
     <link rel="stylesheet" href="css/normalize.css">
     <link rel="stylesheet"  href="css/bootstrap.css">
     <link  rel="stylesheet" href="css/app.css">
-    <script src="js/main.js"></script>
   </head>
   <body>
-    <div ng-app="">
-      <input type="text" ng-model="data.message">
-      <h1>{{data.message}}</h1>
-      <!-- the controller name needs a method in main.js -->
+    <div ng-app="myApp">
       <div ng-controller="FirstCtrl">
         <input type="text" ng-model="data.message">
         <h1>{{data.message}}</h1>
@@ -23,5 +19,6 @@
       </div>
     </div>
     <script src="js/angular.js"></script>
+    <script src="js/main.js"></script>
   </body>
 </html>
