@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="JavaScriptLibraryMappings">
-    <file url="PROJECT" libraries="{AngularJS 1.0.8 prod}" />
+    <file url="PROJECT" libraries="{AngularJS 1.0.8 prod, Jasmine}" />
   </component>
 </project>
 
