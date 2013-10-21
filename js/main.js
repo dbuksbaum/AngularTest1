@@ -16,4 +16,8 @@ function FirstCtrl($scope, Data){
 function SecondCtrl($scope, Data){
   "use strict";
   $scope.data = Data;
+
+  $scope.reversedMessage = function(message) {
+    return message.split("").reverse().join("");
+  }
 }
